@@ -2,7 +2,6 @@ package com.sachinkumar.java.projects;
 
 import java.math.BigDecimal;
 
-
 public class MyHashCodeFunction {
 
 	private int id;
