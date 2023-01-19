@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sachinkumar
+ *
+ */
+module MySecondJavaProject {
+}
