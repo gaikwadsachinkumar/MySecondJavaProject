@@ -11,6 +11,7 @@ public class MyJavaCollectionStudy {
 		this.animals=animals;
 	}
 	
+	//Constructor
 	private void printAnimals(List<String> animals) {
 		for(String animal : animals) {
 			System.out.println(animal);
