@@ -8,6 +8,7 @@ public class MyHashCodeFunction {
 	private String name;
 	private BigDecimal mobile;
 
+	//Constructor
 	public MyHashCodeFunction(int id, String name, BigDecimal mobile) {
 		this.id = id;
 		this.name = name;
